@@ -17,7 +17,7 @@ https://github.com/17mon/csharp</br>
 # GetIPAddressIPdb
 离线查询库：</br>
 ipipfree.ipdb</br>
-鸣谢IPIP.net开源IP库解析代码</br>
+鸣谢IPIP.net开源IP库解析代码：</br>
 https://github.com/ipipdotnet/ipdb-csharp</br>
 </br>
 更新IP离线库</br>
